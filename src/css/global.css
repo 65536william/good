@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+    font-family: "Good";
+    src: url("../fonts/font.woff2") format("woff2"),
+    url("../fonts/font.woff") format("woff");
+}
+
+@tailwind utilities;
